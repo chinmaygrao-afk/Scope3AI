@@ -1,0 +1,4 @@
+mode,distance_km,weight_tons
+Truck,500,10
+Ship,2000,50
+Air,800,5

@@ -1,0 +1,5 @@
+activity,emission_factor
+Truck,0.12
+Ship,0.02
+Air,0.6
+Spend,0.25
